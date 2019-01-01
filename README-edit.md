@@ -7,3 +7,4 @@ Chad D. Mills
 /asp.net/ - .NET Code examples and projects
 /JavaScript/ - JS Code examples and projects
 /angular/ - Angular Code examples and projects
+/php/ - PHP Code Samples and projects
