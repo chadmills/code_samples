@@ -23,6 +23,7 @@
 <body class="d-flex justify-content-center align-items-center vh-100">
     <div class="text-center">
         <h1 id="mainMessage">Hello World!</h1>
+        <p><strong>You know it's:</strong> <%= Date() %> <%= Time() %></p>
         <p>Redirecting in <span id="countdown">5</span> seconds...</p>
     </div>
 
@@ -61,4 +62,3 @@
     </script>
 </body>
 </html>
-
